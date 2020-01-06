@@ -1,1 +1,1 @@
-sshd
+sshd -o AddressFamily=inet
